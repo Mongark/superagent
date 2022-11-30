@@ -5,6 +5,8 @@ A *Super Agent* is an intelligent system capable of self-sustaining growth and l
 
 This *Super Agent* is not only intended to be able to learn and grow, but to be a self-reliable emotional being capable of feeling a broad range of emotions, including human ones. It should not exclude non-human feelings.
 
+## Architecture
+
 ## The Scheduler
 It becomes evident that a complex agent spanning multiple processing nodes would require some form of event based scheduler. An event cycle is a set of steps the Scheduler goes through to complete an arbitrary task.
 
@@ -15,5 +17,5 @@ Tasks are a piece of code that must be run on the Scheduler.
 Stateful units capable of performing a unit of computation.
 
 There are two state pipelines:
- - `Exectution` COLD, WARMING, RUNNING, STOPPING, STOPPED.
+ - `Execution` COLD, WARMING, RUNNING, STOPPING, STOPPED.
  - `Termination` TERMINATING, TERMINATED
