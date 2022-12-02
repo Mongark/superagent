@@ -1,4 +1,4 @@
-## Definitions
+## General Definitions
 
 ### Artificial Intelligence
 *Artificial Intellifece*, or *AI*, is the field that studies the synthesis and analysis of computational agents that act intelligently.
@@ -15,3 +15,8 @@ An *emergent algorithm* is an algorithm that exhibits emergent behavior. In esse
 
 ### Emergence
 In philosophy, systems theory, science, and art, *emergence* occurs when an entity is observed to have properties its parts do not have on their own, properties or behaviors that emerge only when the parts interact in a wider whole.
+
+## Personal Definitons
+
+### Purely Algorithmic Perspective
+When one sees an algorithm in relation to how it affects data, rather than its more specific application. It generalizes an algorithm such that it can be applied on other use cases.
