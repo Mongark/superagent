@@ -11,4 +11,7 @@ An *Agent* is something that acts in an environment. An Agent acts intelligently
 * it makes appropriate choices given its perceptual and computational limitations
 
 ### Emergent Algotithms
-An emergent algorithm is an algorithm that exhibits emergent behavior. In essence an emergent algorithm implements a set of simple building block behaviors that when combined exhibit more complex behaviors.
+An *emergent algorithm* is an algorithm that exhibits emergent behavior. In essence an emergent algorithm implements a set of simple building block behaviors that when combined exhibit more complex behaviors.
+
+### Emergence
+In philosophy, systems theory, science, and art, *emergence* occurs when an entity is observed to have properties its parts do not have on their own, properties or behaviors that emerge only when the parts interact in a wider whole.
