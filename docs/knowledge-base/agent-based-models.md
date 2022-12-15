@@ -1,0 +1,1 @@
+An *agent-based model*(*ABM*) is a computational model for simulating the actions and inteactions of autonomous agents(both individual and collective entities such as organizations or groups) in order to understand the behavior of a system and what governs its outcomes.
