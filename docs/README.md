@@ -1,5 +1,7 @@
 # Super Agent Documentation
 
+![GitHub repo size](https://img.shields.io/github/repo-size/Mongark/superagent)
+
 ## Introduction
 A *Super Agent* is an intelligent system capable of self-sustaining growth and learning on a complex environment. It can learn new skills based on need, interest, and projections. Most of its behaviours should emerge from a set of basic components, so that the generalist principles that brought it forth can be latter be modified by the same.
 
